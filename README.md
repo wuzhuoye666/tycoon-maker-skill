@@ -1,4 +1,4 @@
-# Tycoon Maker
+# Tycoon Maker + obsidian！！！
 
 **商业大亨培养器** — 创业者的苏格拉底式思考助手
 
